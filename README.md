@@ -20,8 +20,13 @@ Certifications:
 - Cisco ...
 
 Goals
-
 Become a skilled Offensive Security Professional.
+
+Projects:
+- OverTheWire Bandit *(In Progress)*
+- Python Security Tools *(Coming Soon)*
+- TryHackMe *(Coming Soon)*
+- HackTheBox *(Coming Soon)*
 
 
 
